@@ -50,6 +50,3 @@ for x in range(0, pictureWidth):
         new_imagePixelAccess[x,y]= (medianRed,medianGreen,medianBlue)
 
 new_image.show()
-# Do our median calculations
-# Clear our red, green, blue value lists
-# Put the red, green blue values for the pixel for the output image
